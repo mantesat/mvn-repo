@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>eu.michael-simons</groupId>
+  <artifactId>wro4j-spring-boot-starter</artifactId>
+  <versioning>
+    <versions>
+      <version>0.11.4-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20230824122233</lastUpdated>
+  </versioning>
+</metadata>
